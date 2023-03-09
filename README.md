@@ -30,7 +30,7 @@
 
 # Important for You #
 
-**All Wallpapers are 3840 x 2160 approximately almost 4K**
+**All Wallpapers are 3840 x 2160 approximately almost 4K** ´High quality´
 
   `This repo is in Constant Development and Updates`
 
