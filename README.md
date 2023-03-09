@@ -25,7 +25,7 @@
 
 </p>
 
-# ⚔️ My||Hacking||Environment|||Wallpapers||Based ⚒⚔️
+# ⚔️ My|Hacking||Environment||Nord Wallpapers||Based ⚒⚔️
 
 
 # Important for You #
