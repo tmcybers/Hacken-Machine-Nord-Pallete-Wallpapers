@@ -41,7 +41,7 @@ git clone https://github.com/tmcybers/Hacken-Machine-Nord-Pallete-Wallpapers.git
 ```
 ## Direct Download
   
-**Download Zip from Code** 
+**Download Zip Directly** 
 
 
 
