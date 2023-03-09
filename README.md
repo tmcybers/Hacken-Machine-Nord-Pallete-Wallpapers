@@ -12,7 +12,7 @@
 
 <p align="center">
 <a href="https://github.com/tmcybers/Hacken-Machine-Nord-Pallete-Wallpapers"><img src="https://img.shields.io/badge/XML-yellowgreen">
-<a href="https://github.com/tmcybers/Hacken-Machine-Nord-Pallete-Wallpapers"><img src="https://img.shields.io/badge/downloads-36734-green">
+<a href="https://github.com/tmcybers/Hacken-Machine-Nord-Pallete-Wallpapers"><img src="https://img.shields.io/badge/downloads-12890-green">
 <a href="https://github.com/tmcybers/Hacken-Machine-Nord-Pallete-Wallpapers"><img src="https://img.shields.io/badge/releases-1.0-red">
 <a href="https://github.com/tmcybers/Hacken-Machine-Nord-Pallete-Wallpapers"><img src="https://img.shields.io/badge/contributors-1-orange">
 <a href="https://github.com/tmcybers/Hacken-Machine-Nord-Pallete-Wallpapers"><img src="https://img.shields.io/badge/open%20issues-0-blue">
