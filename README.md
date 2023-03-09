@@ -6,7 +6,7 @@
 
 <h4 align="center"> Hacken Machine Nord-Pallete Wallpapers </h4>
 <h4 align="center"> ☬ NoRD Pallete ßÿ тм¢увєя ☬ </h4>
----
+
 
 <p align="center">
 <a href="https://github.com/tmcybers/Hacken-Machine-Nord-Pallete-Wallpapers"><img src="https://img.shields.io/badge/Nord Pallete-yellowgreen">
@@ -32,7 +32,7 @@
 
   `This repo is in Constant Development and Updates`
 
-  `Future changes will be applied both to Appearance/Pallette colors and to further include more and more Wallpapers ! Stay !Hackem!`
+  `Future changes will be applied both to Appearance/Pallette colors and to further include more and more Wallpapers ! ⚔️ Stay Hackem ⚔️ `
 
 
 
