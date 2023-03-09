@@ -32,7 +32,7 @@
 
   `This repo is in Constant Development and Updates`
 
-  `Future changes will be applied both to Appereance/Pallette and to further include more and more Wallpapers ! Stay !Hackem!`
+  `Future changes will be applied both to Appearance/Pallette colors and to further include more and more Wallpapers ! Stay !Hackem!`
 
 
 
