@@ -34,14 +34,14 @@
 
   `Future changes will be applied both to Appearance/Pallette colors and to further include more and more Wallpapers ! ⚔️ Stay Hackem ⚔️ `
 
-## Usage 
+## Clone Method 
 
 ```
 git clone https://github.com/tmcybers/Hacken-Machine-Nord-Pallete-Wallpapers.git
 ```
-## Usage Direct Download
+## Direct Download
   
-**Download Zip** 
+**Download Zip from Code** 
 
 
 
