@@ -30,6 +30,8 @@
 
 # Important for You #
 
+**All Wallpapers are 3840 x 2160 approximately almost 4K**
+
   `This repo is in Constant Development and Updates`
 
   `Future changes will be applied both to Appearance/Pallette colors and to further include more and more Wallpapers ! ⚔️ Stay Hackem ⚔️ `
