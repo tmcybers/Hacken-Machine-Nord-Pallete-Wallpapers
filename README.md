@@ -24,3 +24,22 @@
 <a href="https://ko-fi.com/tmcyber"><img src="https://img.shields.io/badge/Support%20me-Ko--Fi-brightgreen?style=plastic&logo=ko-fi">
 
 </p>
+
+# ⚒️ My||Hacking||Environment|||Wallpapers||Based ⚒️
+
+
+# Important for You #
+
+  `This repo is in Constant Development and Updates`
+
+  `Future changes will be applied both to Appereance/Pallette and to further include more and more Wallpapers, so stay !Hackem
+
+
+
+
+
+
+
+
+
+
