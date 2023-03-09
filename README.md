@@ -34,8 +34,11 @@
 
   `Future changes will be applied both to Appearance/Pallette colors and to further include more and more Wallpapers ! ⚔️ Stay Hackem ⚔️ `
 
+## Usage 
 
-
+```
+git clone https://github.com/tmcybers/Hacken-Machine-Nord-Pallete-Wallpapers.git
+```
 
 
 
