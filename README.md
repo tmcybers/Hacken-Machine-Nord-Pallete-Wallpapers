@@ -1,13 +1,11 @@
-# Hacken-Machine-Nord-Pallete-Wallpapers
-☬ NoRD Pallete ßÿ тм¢увєя ☬
 
 <h1 align="center">
   <br>
   <a href="https://github.com/tmcybers/gmailHack"><img src="Hacken-Machine-Nord-Pallete-Wallpapers.png" width="500px" alt="gmailHack"></a>
 </h1>
 
-<h4 align="center">☣️ Spanner Hacken Machine ☣️</h4>
-
+<h4 align="center"> Hacken-Machine-Nord-Pallete-Wallpapers </h4>
+<h4 align="center"> ☬ NoRD Pallete ßÿ тм¢увєя ☬ </h4>
 ---
 
 <p align="center">
