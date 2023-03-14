@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/tmcybers/gmailHack"><img src="Hacken-Machine-Nord-Pallete-Wallpapers.png" width="500px" alt="gmailHack"></a>
+  <a href="https://github.com/tmcybers/Hacken-Machine-Nord-Pallete-Wallpapers"><img src="Hacken-Machine-Nord-Pallete-Wallpapers.png" width="500px" alt="gmailHack"></a>
 </h1>
 
 <h4 align="center"> Hacken Machine Nord-Pallete Wallpapers </h4>
